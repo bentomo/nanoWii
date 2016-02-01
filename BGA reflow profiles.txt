@@ -1,0 +1,36 @@
+GPU Desoldering Profile 
+
+[JOVYProfile]
+ProfileName=SJS2 st p
+X1PointTemperature=100
+X2PointTemperature=180
+X3PointTemperature=220
+X1LHMode=10
+X2LHMode=10
+X3LHMode=10
+X1UHMode=2
+X2UHMode=2
+X3UHMode=3
+X1PointMessage=UHH20
+X2PointMessage=UUH30
+X3PointMessage=UHH30
+0-0-0-1-0-0
+
+
+CPU Desoldering Profile
+
+[JOVYProfile]
+ProfileName=SJS1st p
+X1PointTemperature=110
+X2PointTemperature=175
+X3PointTemperature=220
+X1LHMode=10
+X2LHMode=10
+X3LHMode=10
+X1UHMode=2
+X2UHMode=2
+X3UHMode=3
+X1PointMessage=UHH20
+X2PointMessage=UUH30
+X3PointMessage=UHH35
+0-0-0-1-0-0
