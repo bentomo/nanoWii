@@ -4,4 +4,8 @@ $CMP C
 D Unpolarized capacitor
 $ENDCMP
 #
+$CMP R
+D Resistor
+$ENDCMP
+#
 #End Doc Library
